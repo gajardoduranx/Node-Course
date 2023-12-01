@@ -1,0 +1,25 @@
+{
+  "name": "00-node",
+  "version": "1.0.0",
+  "description": "Curso de Node Introducción",
+  "main": "01-os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "process",
+    "NodeJs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
